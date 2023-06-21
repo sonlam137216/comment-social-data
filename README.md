@@ -17,3 +17,5 @@ yarn server-axios
 ## Traning model with Decision Tree, Logistic Regression and SVM
 
 Please run colab file [comment.ipynb](https://github.com/sonlam137216/comment-social-data/blob/main/comment.ipynb/) with [Google Colab](https://colab.research.google.com/)
+
+Upload [final.csv](https://github.com/sonlam137216/comment-social-data/blob/main/final.csv) and [vietnamese-stopwords](https://github.com/sonlam137216/comment-social-data/blob/main/vietnamese-stopwords.txt) to sample folder in Colab
